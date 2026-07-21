@@ -19,7 +19,7 @@ Practice code and notes: [`MoQix26/study`](https://github.com/MoQix26/study)
 
 - Gold Medal — 2026 CCPC Henan Provincial Contest
 - Silver Medal — 2026 ICPC Henan Provincial Contest
-- National First Prize & Provincial First Prize — Lanqiao Cup
+- National First Prize & Provincial First Prize — LanQiao Cup
 
 ## GitHub Contribution
 
