@@ -13,8 +13,7 @@
 
 - Currently learning Go backend development while continuing to practice algorithms.
 - My blog is here -> [MoQix26.top](https://moqix26.top)
-
-Practice code and notes: [`MoQix26/study`](https://github.com/MoQix26/study)
+- Practice code and notes -> [`MoQix26/study`](https://github.com/MoQix26/study)
 
 ## Competitive Programming
 
